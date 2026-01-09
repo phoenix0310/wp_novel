@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madara-Child-NovelHub\n"
+"POT-Creation-Date: 2025-10-08 15:48+0700\n"
+"PO-Revision-Date: 2025-10-08 15:49+0700\n"
+"Last-Translator: \n"
+"Language-Team: wpstylish <wpstylish@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;esc_html__;esc_html_e;__;"
+"esc_attr__;esc_attr_e;_x;_n:1,2;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/settings-page.php:21
+msgid "Madara-Child-NovelHub Activation"
+msgstr ""
+
+#: admin/settings-page.php:22 admin/settings-page.php:31
+msgid "Madara-Child-NovelHub License"
+msgstr ""
+
+#: admin/settings-page.php:144
+msgid ""
+"Re-activate successfully. However, please deactivate & activate again to get "
+"correct license info"
+msgstr ""
+
+#: admin/settings-page.php:170
+msgid "License Key Activated"
+msgstr ""
+
+#: admin/settings-page.php:171
+msgid "Premium support until: "
+msgstr ""
+
+#: admin/settings-page.php:171
+msgid "[Please re-activate to update this value]"
+msgstr ""
+
+#: admin/settings-page.php:174
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: admin/settings-page.php:179
+msgid "License Key"
+msgstr ""
+
+#: admin/settings-page.php:201
+#, php-format
+msgid ""
+"Child theme is not activated, you should activate this plugin to use it,  "
+"%1$sactivate.%2$s "
+msgstr ""
+
+#: footer.php:70
+#, php-format
+msgid "&copy; %s Madara Inc. All rights reserved"
+msgstr ""
+
+#: footer.php:78
+msgid "Language:"
+msgstr ""
+
+#: functions.php:25
+msgid "Read Less"
+msgstr ""
+
+#: functions.php:26
+msgid "Read More"
+msgstr ""
+
+#: functions.php:33
+msgid "You have reached the last chapter"
+msgstr ""
+
+#: functions.php:55
+msgid "This square thumb is used for NovelHub child theme"
+msgstr ""
+
+#: functions.php:216
+msgid "Child Theme Settings"
+msgstr ""
+
+#: functions.php:252
+msgid "Thumb Size Ratio"
+msgstr ""
+
+#: functions.php:257
+msgid "Use default Madara size (vertical)"
+msgstr ""
+
+#: functions.php:258
+msgid "Square"
+msgstr ""
+
+#: functions.php:269
+msgid "Reading Page - Scroll Up To Load Previous Chapter"
+msgstr ""
+
+#: functions.php:274 functions.php:291 functions.php:308
+msgid "On"
+msgstr ""
+
+#: functions.php:275 functions.php:292 functions.php:309
+msgid "Off"
+msgstr ""
+
+#: functions.php:286
+msgid "Reading Page - Scroll Down To Load Next Chapter"
+msgstr ""
+
+#: functions.php:303
+msgid "Reading Page - Sticky Reading Menu"
+msgstr ""
+
+#: functions.php:320
+msgid "Reading Page - Font Family 1"
+msgstr ""
+
+#: functions.php:324
+msgid ""
+"Font Family for Chapter Reading page. Example: \"Helvetica, sans-serif\""
+msgstr ""
+
+#: functions.php:334
+msgid "Reading Page - Font Family 2"
+msgstr ""
+
+#: functions.php:338
+msgid ""
+"Font Family for Chapter Reading page. Example: \"Times New Roman, serif\""
+msgstr ""
+
+#: functions.php:348
+msgid "Header Button - Label"
+msgstr ""
+
+#: functions.php:352
+msgid "Label of the Header Button"
+msgstr ""
+
+#: functions.php:362
+msgid "Header Button - URL"
+msgstr ""
+
+#: functions.php:366
+msgid "URL of the Header Button"
+msgstr ""
+
+#: functions.php:376
+msgid "Manga Detail - Show Genres"
+msgstr ""
+
+#: functions.php:381
+msgid "All Genres"
+msgstr ""
+
+#: functions.php:382
+msgid "First Genre only"
+msgstr ""
+
+#: functions.php:384
+msgid "Show all genres or only the first genre in the Manga Detail page"
+msgstr ""
+
+#: functions.php:394
+msgid "Manga Detail - Header Background Type"
+msgstr ""
+
+#: functions.php:399
+msgid "Manga Single - Background Image"
+msgstr ""
+
+#: functions.php:400
+msgid "Color"
+msgstr ""
+
+#: functions.php:402
+msgid "Type of background in the Manga Detail page"
+msgstr ""
+
+#: functions.php:409
+msgid "Manga Detail - Header Background"
+msgstr ""
+
+#: functions.php:410
+msgid ""
+"Main Color for Manga Detail - Header Background. Used when \"Manga Detail - "
+"Header Background Type\" is \"color\""
+msgstr ""
+
+#: functions.php:427
+msgid "Chapter Reader - Header Background"
+msgstr ""
+
+#: header.php:95
+msgid "Search..."
+msgstr ""
+
+#: header.php:113
+msgid "Sign in"
+msgstr ""
+
+#: header.php:114
+msgid "Sign up"
+msgstr ""
+
+#: madara-core/content/content-archive.php:165
+#, php-format
+msgid "Chapter %s"
+msgstr ""
+
+#: madara-core/content/content-search.php:68
+msgid "Alternative"
+msgstr ""
+
+#: madara-core/content/content-search.php:86
+msgid "Authors"
+msgstr ""
+
+#: madara-core/content/content-search.php:111
+msgid "Artists"
+msgstr ""
+
+#: madara-core/content/content-search.php:135
+msgid "Genres"
+msgstr ""
+
+#: madara-core/content/content-search.php:161
+msgid "Status"
+msgstr ""
+
+#: madara-core/content/content-search.php:179 shortcodes.php:322
+msgid "Release"
+msgstr ""
+
+#: madara-core/content/content-search.php:218
+msgid "Latest chapter"
+msgstr ""
+
+#: madara-core/manga-archive.php:26 madara-core/manga-breadcrumb.php:88
+msgid "All Mangas"
+msgstr ""
+
+#: madara-core/manga-archive.php:123
+#, php-format
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: madara-core/manga-breadcrumb.php:82
+msgid "Home"
+msgstr ""
+
+#: madara-core/manga-related.php:133
+msgid "You may also like"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:135
+#: madara-core/single/info-summary.php:95
+msgid "Author: "
+msgstr ""
+
+#: madara-core/manga-single-reading.php:204
+msgid "Chapters"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:205
+msgid "Comments"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:272
+msgid "Fonts"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:285
+msgid "Text size"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:292
+msgid "Background"
+msgstr ""
+
+#: madara-core/manga-single-reading.php:314
+msgid "Reset"
+msgstr ""
+
+#: madara-core/manga-single.php:88
+msgid "About"
+msgstr ""
+
+#: madara-core/manga-single.php:93
+msgid "Table of Contents"
+msgstr ""
+
+#: madara-core/manga-single.php:103
+msgid "Synopsis"
+msgstr ""
+
+#: madara-core/manga-single.php:113
+msgid "Read more"
+msgstr ""
+
+#: madara-core/manga-single.php:127
+msgid "Tag"
+msgstr ""
+
+#: madara-core/single/info-chapters.php:49
+msgid "Latest Release : "
+msgstr ""
+
+#: madara-core/single/info-chapters.php:69
+msgid "Change Order"
+msgstr ""
+
+#: madara-core/single/info-chapters.php:188
+msgid "There is no chapters"
+msgstr ""
+
+#: madara-core/single/info-chapters.php:203
+msgid "Manga has no chapter yet."
+msgstr ""
+
+#: madara-core/single/info-chapters.php:210
+msgid "Show more "
+msgstr ""
+
+#: madara-core/single/info-summary.php:64
+#, php-format
+msgid "%s Chapter"
+msgid_plural "%s Chapters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: madara-core/single/info-summary.php:84
+#, php-format
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sample-data/sampledata.php:17
+msgid "Novelhub"
+msgstr ""
+
+#: sample-data/sampledata.php:20
+msgid "Mangabooth"
+msgstr ""
+
+#: sample-data/sampledata.php:36
+msgid "Widget Logic"
+msgstr ""
+
+#: shortcodes.php:320
+msgid "Genre"
+msgstr ""
+
+#: shortcodes.php:321 widgets/trending-manga-widget.php:96
+msgid "Title"
+msgstr ""
+
+#: shortcodes.php:323
+msgid "Author"
+msgstr ""
+
+#: shortcodes.php:324
+msgid "Time"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:10
+msgid "Display Trending Manga"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:12
+msgid "WP Manga: Trending Manga"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:55
+msgid "Today"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:56
+msgid "This Month"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:57
+msgid "All Time"
+msgstr ""
+
+#: widgets/trending-manga-widget.php:102
+msgid "Number of posts"
+msgstr ""

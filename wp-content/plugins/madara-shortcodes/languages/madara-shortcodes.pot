@@ -1,0 +1,581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Manga Shortcodes\n"
+"POT-Creation-Date: 2024-12-19 11:43+0700\n"
+"PO-Revision-Date: 2018-06-28 21:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: mangabooth <mangabooth@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;esc_html__;esc_html_e;__;"
+"esc_attr__;esc_attr_e;_x;_n:1,2;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: configuration.php:60
+msgid "WP Manga"
+msgstr ""
+
+#: inc/classes/ct-shortcodes.php:645
+msgid "View all posts in "
+msgstr ""
+
+#: inc/classes/ct-shortcodes.php:661
+msgid "By"
+msgstr ""
+
+#: inc/classes/ct-shortcodes.php:687
+msgid "Thumb 642x320px"
+msgstr ""
+
+#: inc/classes/ct-shortcodes.php:688
+msgid "This thumb size is used for: Shortcode Post Slider"
+msgstr ""
+
+#: shortcodes/blog.php:130
+msgid "Number of posts to show"
+msgstr ""
+
+#: shortcodes/blog.php:131
+msgid "Default value is 6"
+msgstr ""
+
+#: shortcodes/blog.php:139
+msgid "Items per row"
+msgstr ""
+
+#: shortcodes/blog.php:142
+msgid "3 Items"
+msgstr ""
+
+#: shortcodes/blog.php:143
+msgid "2 Items"
+msgstr ""
+
+#: shortcodes/blog.php:149
+msgid "Category"
+msgstr ""
+
+#: shortcodes/blog.php:152
+msgid "List of category (slug), separated by a comma"
+msgstr ""
+
+#: shortcodes/blog.php:156 shortcodes/post-slider.php:326
+msgid "Tags"
+msgstr ""
+
+#: shortcodes/blog.php:159
+msgid "List of tag (slug), separated by a comma"
+msgstr ""
+
+#: shortcodes/blog.php:163 shortcodes/manga-grid.php:276
+#: shortcodes/manga-listing.php:389 shortcodes/post-slider.php:333
+msgid "IDs"
+msgstr ""
+
+#: shortcodes/blog.php:166
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: shortcodes/blog.php:172 shortcodes/manga-grid.php:250
+#: shortcodes/manga-listing.php:363 shortcodes/post-slider.php:307
+msgid "Order"
+msgstr ""
+
+#: shortcodes/blog.php:175
+msgid "DESC"
+msgstr ""
+
+#: shortcodes/blog.php:176
+msgid "ASC"
+msgstr ""
+
+#: shortcodes/blog.php:184
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/blog.php:187
+msgid "Date"
+msgstr ""
+
+#: shortcodes/blog.php:188
+msgid "ID"
+msgstr ""
+
+#: shortcodes/blog.php:189 shortcodes/manga-listing.php:204
+msgid "Author"
+msgstr ""
+
+#: shortcodes/blog.php:190 shortcodes/manga-listing.php:202
+#: shortcodes/post-slider.php:277
+msgid "Title"
+msgstr ""
+
+#: shortcodes/blog.php:191
+msgid "Name"
+msgstr ""
+
+#: shortcodes/blog.php:192
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/blog.php:193 shortcodes/manga-grid.php:242
+#: shortcodes/manga-listing.php:355 shortcodes/post-slider.php:279
+msgid "Random"
+msgstr ""
+
+#: shortcodes/blog.php:194
+msgid "Comment count"
+msgstr ""
+
+#: shortcodes/blog.php:195
+msgid "Post__in"
+msgstr ""
+
+#: shortcodes/blog.php:202
+msgid "Madara Blog"
+msgstr ""
+
+#: shortcodes/blog.php:207 shortcodes/heading.php:211
+#: shortcodes/manga-chapters.php:141 shortcodes/manga-grid.php:286
+#: shortcodes/manga-info.php:303 shortcodes/manga-listing.php:399
+#: shortcodes/post-slider.php:343
+msgid "Madara Shortcodes"
+msgstr ""
+
+#: shortcodes/heading.php:142 shortcodes/post-slider.php:233
+msgid "Style"
+msgstr ""
+
+#: shortcodes/heading.php:146 shortcodes/post-slider.php:237
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/heading.php:147 shortcodes/post-slider.php:238
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/heading.php:149
+msgid "Select heading style"
+msgstr ""
+
+#: shortcodes/heading.php:155
+msgid "Heading Content"
+msgstr ""
+
+#: shortcodes/heading.php:162 shortcodes/manga-listing.php:277
+msgid "Heading Icon"
+msgstr ""
+
+#: shortcodes/heading.php:165
+msgid "Icon class, for example 'fa fa-star'"
+msgstr ""
+
+#: shortcodes/heading.php:165
+msgid "Font Awesome"
+msgstr ""
+
+#: shortcodes/heading.php:165
+msgid "Ionicons"
+msgstr ""
+
+#: shortcodes/heading.php:170
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/heading.php:173
+msgid "Hexa color of Icon Color"
+msgstr ""
+
+#: shortcodes/heading.php:177
+msgid "Color of Heading Background"
+msgstr ""
+
+#: shortcodes/heading.php:180
+msgid "Hexa color of Heading Background"
+msgstr ""
+
+#: shortcodes/heading.php:184
+msgid "Margin"
+msgstr ""
+
+#: shortcodes/heading.php:187
+msgid ""
+"Margin of Button. Default is '0px 0px 0px 0px' (TOP RIGHT BOTTOM LEFT). "
+"Leave blank to use default style."
+msgstr ""
+
+#: shortcodes/heading.php:192
+msgid "Border Bottom"
+msgstr ""
+
+#: shortcodes/heading.php:195 shortcodes/manga-info.php:277
+#: shortcodes/manga-info.php:289
+msgid "Disable"
+msgstr ""
+
+#: shortcodes/heading.php:196 shortcodes/manga-info.php:276
+#: shortcodes/manga-info.php:288
+msgid "Enable"
+msgstr ""
+
+#: shortcodes/heading.php:198
+msgid "Enable/ Disable border bottom in Header Style 1"
+msgstr ""
+
+#: shortcodes/heading.php:208
+msgid "Madara Heading"
+msgstr ""
+
+#: shortcodes/manga-chapters.php:130 shortcodes/manga-info.php:251
+msgid "Manga ID"
+msgstr ""
+
+#: shortcodes/manga-chapters.php:133 shortcodes/manga-info.php:254
+msgid "Enter ID of manga to display."
+msgstr ""
+
+#: shortcodes/manga-chapters.php:138
+msgid "Madara Manga Chapters"
+msgstr ""
+
+#: shortcodes/manga-grid.php:208 shortcodes/manga-listing.php:286
+msgid "Manga Chapter Type"
+msgstr ""
+
+#: shortcodes/manga-grid.php:211 shortcodes/manga-listing.php:289
+msgid "All"
+msgstr ""
+
+#: shortcodes/manga-grid.php:212 shortcodes/manga-listing.php:290
+msgid "Image"
+msgstr ""
+
+#: shortcodes/manga-grid.php:213 shortcodes/manga-listing.php:291
+msgid "Text"
+msgstr ""
+
+#: shortcodes/manga-grid.php:214 shortcodes/manga-listing.php:292
+msgid "Video"
+msgstr ""
+
+#: shortcodes/manga-grid.php:217 shortcodes/manga-listing.php:295
+msgid "Type of Manga Chapter to query"
+msgstr ""
+
+#: shortcodes/manga-grid.php:223 shortcodes/manga-listing.php:301
+msgid "Author ID"
+msgstr ""
+
+#: shortcodes/manga-grid.php:226 shortcodes/manga-listing.php:304
+msgid "Filter by Author ID. Enter 0 to get current logged-in user"
+msgstr ""
+
+#: shortcodes/manga-grid.php:232 shortcodes/manga-listing.php:345
+#: shortcodes/post-slider.php:271
+msgid "Oder By"
+msgstr ""
+
+#: shortcodes/manga-grid.php:235 shortcodes/manga-listing.php:348
+#: shortcodes/post-slider.php:274
+msgid "Latest"
+msgstr ""
+
+#: shortcodes/manga-grid.php:236 shortcodes/manga-listing.php:349
+msgid "A-Z"
+msgstr ""
+
+#: shortcodes/manga-grid.php:237 shortcodes/manga-info.php:105
+#: shortcodes/manga-listing.php:350
+msgid "Rating"
+msgstr ""
+
+#: shortcodes/manga-grid.php:238 shortcodes/manga-listing.php:351
+msgid "Trending"
+msgstr ""
+
+#: shortcodes/manga-grid.php:239 shortcodes/manga-listing.php:352
+msgid "Most Views"
+msgstr ""
+
+#: shortcodes/manga-grid.php:240 shortcodes/manga-listing.php:353
+msgid "New Manga"
+msgstr ""
+
+#: shortcodes/manga-grid.php:241 shortcodes/manga-listing.php:354
+msgid "Input (only available when using ids parameter)"
+msgstr ""
+
+#: shortcodes/manga-grid.php:244 shortcodes/manga-listing.php:357
+#: shortcodes/post-slider.php:242 shortcodes/post-slider.php:281
+msgid "condition to query items"
+msgstr ""
+
+#: shortcodes/manga-grid.php:253 shortcodes/manga-info.php:265
+#: shortcodes/manga-listing.php:366 shortcodes/post-slider.php:310
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/manga-grid.php:254 shortcodes/manga-info.php:264
+#: shortcodes/manga-listing.php:367 shortcodes/post-slider.php:311
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/manga-grid.php:260 shortcodes/manga-listing.php:373
+msgid "Manga Genres"
+msgstr ""
+
+#: shortcodes/manga-grid.php:263 shortcodes/manga-listing.php:376
+msgid "List of Manga Genres slug to query items from, separated by a comma."
+msgstr ""
+
+#: shortcodes/manga-grid.php:268 shortcodes/manga-listing.php:381
+msgid "Manga Tags"
+msgstr ""
+
+#: shortcodes/manga-grid.php:271 shortcodes/manga-listing.php:384
+msgid "List of Manga Tags slug to query items from, separated by a comma."
+msgstr ""
+
+#: shortcodes/manga-grid.php:279 shortcodes/manga-listing.php:392
+#: shortcodes/post-slider.php:336
+msgid ""
+"list of post IDs to query, separated by a comma. If this value is not empty, "
+"cats, tags and featured are omitted"
+msgstr ""
+
+#: shortcodes/manga-grid.php:283
+msgid "Manga Grid"
+msgstr ""
+
+#: shortcodes/manga-info.php:108
+#, php-format
+msgid "Average %1s / %2s out of %3s total vote."
+msgid_plural "Average %1s / %2s out of %3s total votes."
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/manga-info.php:114
+msgid "Rank"
+msgstr ""
+
+#: shortcodes/manga-info.php:118
+#, php-format
+msgid " %1s, it has %2s monthly view"
+msgid_plural " %1s, it has %2s monthly views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/manga-info.php:125
+msgid "Alternative"
+msgstr ""
+
+#: shortcodes/manga-info.php:138
+msgid "Author(s)"
+msgstr ""
+
+#: shortcodes/manga-info.php:153
+msgid "Artist(s)"
+msgstr ""
+
+#: shortcodes/manga-info.php:168
+msgid "Genre(s)"
+msgstr ""
+
+#: shortcodes/manga-info.php:183
+msgid "Tag(s)"
+msgstr ""
+
+#: shortcodes/manga-info.php:198
+msgid "Type"
+msgstr ""
+
+#: shortcodes/manga-info.php:260
+msgid "Chapter Order"
+msgstr ""
+
+#: shortcodes/manga-info.php:272
+msgid "Enable Manga Details"
+msgstr ""
+
+#: shortcodes/manga-info.php:284
+msgid "Enable Manga Title"
+msgstr ""
+
+#: shortcodes/manga-info.php:300
+msgid "Madara Manga Info"
+msgstr ""
+
+#: shortcodes/manga-listing.php:201
+msgid "Genre"
+msgstr ""
+
+#: shortcodes/manga-listing.php:203
+msgid "Release"
+msgstr ""
+
+#: shortcodes/manga-listing.php:205
+msgid "Time"
+msgstr ""
+
+#: shortcodes/manga-listing.php:268
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/manga-listing.php:271
+msgid "Title for Manga Listing section"
+msgstr ""
+
+#: shortcodes/manga-listing.php:280
+msgid "Icon on Heading for Manga Listing section"
+msgstr ""
+
+#: shortcodes/manga-listing.php:310 shortcodes/post-slider.php:247
+msgid "Count"
+msgstr ""
+
+#: shortcodes/manga-listing.php:313 shortcodes/post-slider.php:250
+msgid "number of items to query"
+msgstr ""
+
+#: shortcodes/manga-listing.php:319
+msgid "Item Layout"
+msgstr ""
+
+#: shortcodes/manga-listing.php:322
+msgid "Default"
+msgstr ""
+
+#: shortcodes/manga-listing.php:323
+msgid "Big Thumbnail"
+msgstr ""
+
+#: shortcodes/manga-listing.php:324
+msgid "Simple"
+msgstr ""
+
+#: shortcodes/manga-listing.php:325
+msgid "Chapters Table"
+msgstr ""
+
+#: shortcodes/manga-listing.php:327
+msgid "Choose Item Layout"
+msgstr ""
+
+#: shortcodes/manga-listing.php:333
+msgid "Items Per Row"
+msgstr ""
+
+#: shortcodes/manga-listing.php:336
+msgid "2 items per row"
+msgstr ""
+
+#: shortcodes/manga-listing.php:337
+msgid "3 items per row"
+msgstr ""
+
+#: shortcodes/manga-listing.php:339
+msgid "Number of items per row"
+msgstr ""
+
+#: shortcodes/manga-listing.php:396
+msgid "Madara Manga Listing"
+msgstr ""
+
+#: shortcodes/post-slider.php:239
+msgid "Style 3"
+msgstr ""
+
+#: shortcodes/post-slider.php:240
+msgid "Style 4"
+msgstr ""
+
+#: shortcodes/post-slider.php:256 shortcodes/post-slider.php:259
+msgid "Number of Post to show"
+msgstr ""
+
+#: shortcodes/post-slider.php:261
+msgid "1"
+msgstr ""
+
+#: shortcodes/post-slider.php:262
+msgid "2"
+msgstr ""
+
+#: shortcodes/post-slider.php:263
+msgid "3"
+msgstr ""
+
+#: shortcodes/post-slider.php:264
+msgid "4"
+msgstr ""
+
+#: shortcodes/post-slider.php:275
+msgid "Most viewed"
+msgstr ""
+
+#: shortcodes/post-slider.php:276
+msgid "Most commented"
+msgstr ""
+
+#: shortcodes/post-slider.php:278
+msgid "Input(only available when using ids parameter)"
+msgstr ""
+
+#: shortcodes/post-slider.php:287 shortcodes/post-slider.php:290
+msgid "Time Range to query posts"
+msgstr ""
+
+#: shortcodes/post-slider.php:292
+msgid "All Time"
+msgstr ""
+
+#: shortcodes/post-slider.php:293
+msgid "1 Day"
+msgstr ""
+
+#: shortcodes/post-slider.php:294
+msgid "1 Week"
+msgstr ""
+
+#: shortcodes/post-slider.php:295
+msgid "1 Month"
+msgstr ""
+
+#: shortcodes/post-slider.php:296
+msgid "1 Year"
+msgstr ""
+
+#: shortcodes/post-slider.php:318
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/post-slider.php:320
+msgid "list of categories (ID) to query items from, separated by a comma."
+msgstr ""
+
+#: shortcodes/post-slider.php:329
+msgid ""
+"list of tags slug to query items from, separated by a comma. For example: "
+"tag-1, tag-2, tag-3"
+msgstr ""
+
+#: shortcodes/post-slider.php:340
+msgid "Madara Posts Slider"
+msgstr ""
+
+#: templates/isotope-item.php:47
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/isotope-item.php:53
+msgid "Pages:"
+msgstr ""
+
+#: templates/isotope-item.php:67
+msgid "Read more"
+msgstr ""

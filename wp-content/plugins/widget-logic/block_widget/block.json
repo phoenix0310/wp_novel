@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "widget-logic/widget-block",
+  "title": "Live Match",
+  "category": "widgets",
+  "icon": "embed-generic",
+  "description": "Show one random live football match",
+  "keywords": ["live", "football", "match"],
+  "version": "1.0.0",
+  "textdomain": "widget-logic",
+  "viewScript": "widget-logic_live_match_widget"
+}
